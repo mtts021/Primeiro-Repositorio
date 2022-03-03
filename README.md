@@ -23,7 +23,7 @@ cheiro-verde a gosto
 
 sal e pimenta a gosto
 
-MODO DE PREPARO
+## MODO DE PREPARO
 
 Coloque o azeite em uma panela e frite o bacon e a linguiça separadamente, depois reserve.
 
@@ -34,3 +34,5 @@ Junte novamente o bacon e a linguiça, acrescente a farinha de mandioca e os ovo
 Acrescente bastante cheiro-verde.
 
 Acerte o sal e a pimenta e está pronto para servir.
+
+[Clique aqui para mais infomações](https://www.tudogostoso.com.br/receita/71014-feijao-tropeiro.html)
